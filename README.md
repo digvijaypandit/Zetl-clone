@@ -14,7 +14,7 @@ This repository contains a clone of the [Zelt website](https://zelt.app/) built 
 
 ## Demo
 
-You can view a live demo of the website clone [here](your-live-demo-url).
+You can view a live demo of the website clone [here](https://digvijaypandit.github.io/Zetl-clone/).
 
 ## Features
 
